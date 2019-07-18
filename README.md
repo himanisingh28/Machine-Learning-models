@@ -30,6 +30,11 @@ In this homework assignment, I performed following steps
 Compared the performance of svm and random forest classifiers to determine the best model performance.
 
 - - -
+Results:
+	              Training Score Before	  Training Score After	  Test Score Before	     Test Score After tuning
+SVM	                    0.85            	0.887	                  0.839	                0.881
+Random Forest         	1.0	              1.0	                    0.891	                0.893
+
 
 ## Resources
 
@@ -40,3 +45,5 @@ Compared the performance of svm and random forest classifiers to determine the b
 * [Scikit-Learn Tutorial Part 2](https://www.youtube.com/watch?v=gK43gtGh49o&t=5858s)
 
 * [Grid Search](https://scikit-learn.org/stable/modules/grid_search.html)
+
+
