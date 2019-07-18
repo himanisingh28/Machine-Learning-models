@@ -28,12 +28,9 @@ In this homework assignment, I performed following steps
 ### Evaluate Model Performance
 
 Compared the performance of svm and random forest classifiers to determine the best model performance.
-
+Concluded that Random Forest has better accuracy compared to SVM.
 - - -
-Results:
-	              Training Score Before	  Training Score After	  Test Score Before	     Test Score After tuning
-SVM	                    0.85            	0.887	                  0.839	                0.881
-Random Forest         	1.0	              1.0	                    0.891	                0.893
+
 
 
 ## Resources
